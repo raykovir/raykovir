@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raykovir
+- 👀 I’m interested in learning Python for Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on entry level projects
+- 📫 How to reach me raykovir@gmail.com
